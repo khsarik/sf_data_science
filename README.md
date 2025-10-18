@@ -1,3 +1,5 @@
-# sf_data_science
-SF homework
-something should be here, but i'll do it later
+# The first step!
+SF homework.
+
+## My projects.
+* [Ptoject 0. Game: Guess the number]()
