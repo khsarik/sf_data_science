@@ -1,17 +1,17 @@
 # Project 0 . Guess the number
 
 ## Оглавление 
-[1. Описание проекта]()
-[2. Какой кейс решаем?]()
-[3. Кратакая информация о данных]()
-[4. Этапы работы над проектом]()
-[5. Результат]()
-[6. Выводы]()
+[1. Описание проекта](https://github.com/khsarik/sf_data_science/tree/master/project_0#описание-проекта)
+[2. Какой кейс решаем?](https://github.com/khsarik/sf_data_science/tree/master/project_0#какой-кейс-решаем)
+[3. Кратакая информация о данных](https://github.com/khsarik/sf_data_science/tree/master/project_0#краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/khsarik/sf_data_science/tree/master/project_0#этапы-работы-над-проектом)
+[5. Результат](https://github.com/khsarik/sf_data_science/tree/master/project_0#результат)
+[6. Выводы](https://github.com/khsarik/sf_data_science/tree/master/project_0#выводы)
 
 ### Описание проекта
 Угадать заданное число компьютером
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/khsarik/sf_data_science/tree/master/project_0#оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное количнств попыток
@@ -29,4 +29,15 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению]()jjjj
+:arrow_up:[к оглавлению](https://github.com/khsarik/sf_data_science/tree/master/project_0#оглавление)
+
+### Этапы работы над проектом
+Metodology of the project
+
+### Результат 
+Results of the project
+
+### Выводы
+Some thoughts about the project
+
+:arrow_up:[к оглавлению](https://github.com/khsarik/sf_data_science/tree/master/project_0#оглавление)
