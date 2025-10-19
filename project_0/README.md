@@ -27,15 +27,19 @@
 Учимся писать хороший код на Python
 
 ### Краткая информация о данных
-....
+Information about the data
 
 :arrow_up:[к оглавлению](https://github.com/khsarik/sf_data_science/tree/master/project_0#оглавление)
 
 ### Этапы работы над проектом
 Metodology of the project
 
+:arrow_up:[к оглавлению](https://github.com/khsarik/sf_data_science/tree/master/project_0#оглавление)
+
 ### Результат 
 Results of the project
+
+:arrow_up:[к оглавлению](https://github.com/khsarik/sf_data_science/tree/master/project_0#оглавление)
 
 ### Выводы
 Some thoughts about the project
