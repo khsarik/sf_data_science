@@ -1,5 +1,9 @@
 # The first step!
-SF homework.
+My first project and homework.
 
 ## My projects.
-* [Ptoject 0. Game: Guess the number](https://github.com/khsarik/sf_data_science/tree/master/project_0)
+* [Ptoject_0. Game: Guess the number](https://github.com/khsarik/sf_data_science/tree/master/project_0)
+
+## My Homework.
+
+* [Homework_0. Game: Guess the number while using minimum number of attempts](https://github.com/khsarik/sf_data_science/tree/master/homework_0)
